@@ -7,6 +7,7 @@ padding: 0px;
 #header{
     padding: 0px;
     margin:0px;
+
 }
 .nav-item{
     list-style: none;
@@ -14,8 +15,13 @@ padding: 0px;
 
 .navbar{
     display: inline-block;
+    
 }
 .navbar-brand{
     padding: 0px;
+}
+.nav-link{
+    padding: 5px;
+    font-size: 15px;
 }
 
